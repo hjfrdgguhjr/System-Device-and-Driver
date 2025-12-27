@@ -1,0 +1,26 @@
+{
+  "buttons": [
+    {
+      "id": 1,
+      "enabled": true,
+      "command": "action2",
+      "name": "Кнопка 1"
+    },
+    {
+      "id": 2,
+      "enabled": true,
+      "command": "action3",
+      "name": "Кнопка 2"
+    },
+    {
+      "id": 3,
+      "enabled": true,
+      "command": "action2",
+      "name": "Кнопка 3"
+    }
+  ],
+  "settings": {
+    "version": "1.0",
+    "last_saved": "2025-12-27 17:42:41"
+  }
+}
